@@ -343,7 +343,10 @@ e.g. : To book a item with Id : 1 , we need to post using below API and input JS
 				  "status": "COMPLETE"
 				}
 
-# Test coverage is 86% , See file : TrivagoCaseStudyCodeCoverage.png
+# Test coverage is 86% 
+
+
+
 
 
 
