@@ -1,9 +1,15 @@
 # Salesken
-#Basic CRUD operation for salesken
+# Basic CRUD operation for salesken : I have tried to create a accomodation service , to book rooms using basic CRUD functions. I have handled exceptions and have applied validation as well to handle real world scenario. I have used MYSQL DB to create schema. 
+
 # Project Description
 Technologies Used : Java, SpringBoot(Java Framework), MySQL , Restful API
 
+# Steps to run project using IDE: 
+1) Use any IDE (Eclipse/IDE) import the complete project and run as java application 
+2) Use postman to test API or use swagger to run the API , (See below details , how to call API using swagger) 
+3) You can also use curl command to run the API. Please hit : http://localhost:8080/swagger-ui/ to get curl commands
 
+# Or If you use Docker , please follow below steps to create project image in docker. 
 # Steps to Run project in docker image,
 
 (1) To run the Application we need to pull the mysql image first :
